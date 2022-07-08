@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628130482234",
+    "project_id": "diundang-firebase",
+    "storage_bucket": "diundang-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628130482234:android:861e2716bfb3e662b18d03",
+        "android_client_info": {
+          "package_name": "com.mina.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628130482234-iidovf9rmg5ptma9p9q7vaphgm14cg17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH-R1e7qlkShiXNhXbWMUdwVsH46uDIMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628130482234-iidovf9rmg5ptma9p9q7vaphgm14cg17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
