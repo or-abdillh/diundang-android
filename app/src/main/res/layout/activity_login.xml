@@ -58,15 +58,17 @@
                     android:inputType="textPassword"
                     android:padding="12dp"
                     android:textColor="#FFFFFF"
+                    android:onClick="toDashboard"
                     android:textColorHint="#FFFFFF" />
 
                 <Button
-                    android:id="@+id/button"
+                    android:id="@+id/login"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="16dp"
                     android:backgroundTint="#EFCA35"
                     android:backgroundTintMode="add"
+                    android:onClick="toDashboard"
                     android:text="Login" />
 
                 <LinearLayout

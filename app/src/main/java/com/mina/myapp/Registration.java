@@ -50,7 +50,7 @@ public class Registration extends AppCompatActivity {
         myRef2.setValue(email);
         myRef3.setValue(phone);
 
-        Intent intent = new Intent(Registration.this, LoginActivity.class);
+        Intent intent = new Intent(Registration.this, MainDashboard.class);
         startActivity(intent);
 
     }
